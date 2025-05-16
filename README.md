@@ -1,1 +1,1 @@
-# Sleep-Disorder-Prediction
+This project focuses on analyzing and predicting sleep disorders using a dataset of health and lifestyle information. It involves cleaning the data, exploring patterns through visualizations, and building a machine learning model to classify individuals as having Insomnia, Sleep Apnea, or No Sleep Disorder. The goal is to identify key factors like sleep duration, stress level, physical activity, and occupation that influence sleep health and use them to support early diagnosis and awareness of sleep-related issues.
