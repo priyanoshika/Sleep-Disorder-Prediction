@@ -1,6 +1,7 @@
 Predictive Modeling for Sleep Disorder Diagnosis
 
 Overview
+
 This project is a machine learning initiative aimed at analyzing health and lifestyle data to predict sleep disorders. The primary objective is to develop a predictive model that can classify individuals as having Insomnia, Sleep Apnea, or no sleep disorder based on key health and lifestyle factors.
 
 Key Features & Findings
